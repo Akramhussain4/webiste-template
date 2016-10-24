@@ -1,0 +1,158 @@
+[15-Oct-2016 16:34:05 Etc/GMT] PHP Notice:  Undefined index: name in /home/gatetjdw/public_html/medicurepulse.com/akram.php on line 2
+[15-Oct-2016 16:34:05 Etc/GMT] PHP Notice:  Undefined index: phone in /home/gatetjdw/public_html/medicurepulse.com/akram.php on line 4
+[15-Oct-2016 16:36:57 Etc/GMT] PHP Notice:  Undefined index: name in /home/gatetjdw/public_html/medicurepulse.com/akram.php on line 2
+[15-Oct-2016 16:36:57 Etc/GMT] PHP Notice:  Undefined index: phone in /home/gatetjdw/public_html/medicurepulse.com/akram.php on line 4
+[15-Oct-2016 16:43:47 Etc/GMT] PHP Notice:  Undefined index: name in /home/gatetjdw/public_html/medicurepulse.com/akram.php on line 2
+[15-Oct-2016 16:43:47 Etc/GMT] PHP Notice:  Undefined index: phone in /home/gatetjdw/public_html/medicurepulse.com/akram.php on line 4
+[15-Oct-2016 16:45:43 Etc/GMT] PHP Notice:  Undefined index: name in /home/gatetjdw/public_html/medicurepulse.com/akram.php on line 2
+[15-Oct-2016 16:45:43 Etc/GMT] PHP Notice:  Undefined index: phone in /home/gatetjdw/public_html/medicurepulse.com/akram.php on line 4
+[15-Oct-2016 16:47:34 Etc/GMT] PHP Notice:  Undefined index: name in /home/gatetjdw/public_html/medicurepulse.com/akram.php on line 2
+[15-Oct-2016 16:47:34 Etc/GMT] PHP Notice:  Undefined index: phone in /home/gatetjdw/public_html/medicurepulse.com/akram.php on line 4
+[15-Oct-2016 16:48:55 Etc/GMT] PHP Notice:  Undefined index: name in /home/gatetjdw/public_html/medicurepulse.com/akram.php on line 2
+[15-Oct-2016 16:48:55 Etc/GMT] PHP Notice:  Undefined index: phone in /home/gatetjdw/public_html/medicurepulse.com/akram.php on line 4
+[15-Oct-2016 17:05:15 Etc/GMT] PHP Notice:  Undefined index: name in /home/gatetjdw/public_html/medicurepulse.com/akram.php on line 2
+[15-Oct-2016 17:05:15 Etc/GMT] PHP Notice:  Undefined index: phone in /home/gatetjdw/public_html/medicurepulse.com/akram.php on line 4
+[15-Oct-2016 17:05:19 Etc/GMT] PHP Notice:  Undefined index: name in /home/gatetjdw/public_html/medicurepulse.com/akram.php on line 2
+[15-Oct-2016 17:05:19 Etc/GMT] PHP Notice:  Undefined index: phone in /home/gatetjdw/public_html/medicurepulse.com/akram.php on line 4
+[15-Oct-2016 17:05:23 Etc/GMT] PHP Notice:  Undefined index: name in /home/gatetjdw/public_html/medicurepulse.com/akram.php on line 2
+[15-Oct-2016 17:05:23 Etc/GMT] PHP Notice:  Undefined index: phone in /home/gatetjdw/public_html/medicurepulse.com/akram.php on line 4
+[15-Oct-2016 17:11:12 Etc/GMT] PHP Notice:  Undefined index: name in /home/gatetjdw/public_html/medicurepulse.com/akram.php on line 2
+[15-Oct-2016 17:11:12 Etc/GMT] PHP Notice:  Undefined index: phone in /home/gatetjdw/public_html/medicurepulse.com/akram.php on line 4
+[15-Oct-2016 17:11:31 Etc/GMT] PHP Notice:  Undefined index: name in /home/gatetjdw/public_html/medicurepulse.com/akram.php on line 2
+[15-Oct-2016 17:11:31 Etc/GMT] PHP Notice:  Undefined index: phone in /home/gatetjdw/public_html/medicurepulse.com/akram.php on line 4
+[15-Oct-2016 17:12:55 Etc/GMT] PHP Notice:  Undefined index: phone in /home/gatetjdw/public_html/medicurepulse.com/akram.php on line 4
+[15-Oct-2016 17:17:03 Etc/GMT] PHP Notice:  Undefined index: phone in /home/gatetjdw/public_html/medicurepulse.com/akram.php on line 4
+[16-Oct-2016 05:22:50 Etc/GMT] PHP Fatal error:  Class 'PHPMailer' not found in /home/gatetjdw/public_html/medicurepulse.com/akram.php on line 4
+[16-Oct-2016 05:23:31 Etc/GMT] PHP Fatal error:  Class 'PHPMailer' not found in /home/gatetjdw/public_html/medicurepulse.com/akram.php on line 4
+[16-Oct-2016 12:22:05 Etc/GMT] PHP Notice:  Undefined variable: Body in /home/gatetjdw/public_html/medicurepulse.com/Mail.php on line 4
+[16-Oct-2016 12:25:14 Etc/GMT] PHP Notice:  Undefined variable: Body in /home/gatetjdw/public_html/medicurepulse.com/Mail.php on line 4
+[16-Oct-2016 12:25:17 Etc/GMT] PHP Notice:  Undefined variable: Body in /home/gatetjdw/public_html/medicurepulse.com/Mail.php on line 4
+[16-Oct-2016 12:38:36 Etc/GMT] PHP Notice:  Undefined index: email in /home/gatetjdw/public_html/medicurepulse.com/email.php on line 5
+[16-Oct-2016 12:38:36 Etc/GMT] PHP Notice:  Undefined index: message in /home/gatetjdw/public_html/medicurepulse.com/email.php on line 6
+[16-Oct-2016 12:44:06 Etc/GMT] PHP Warning:  require(/PHPMailer-masterPHPMailerAutoload.php): failed to open stream: No such file or directory in /home/gatetjdw/public_html/medicurepulse.com/email.php on line 10
+[16-Oct-2016 12:44:06 Etc/GMT] PHP Warning:  require(/PHPMailer-masterPHPMailerAutoload.php): failed to open stream: No such file or directory in /home/gatetjdw/public_html/medicurepulse.com/email.php on line 10
+[16-Oct-2016 12:44:06 Etc/GMT] PHP Fatal error:  require(): Failed opening required '/PHPMailer-masterPHPMailerAutoload.php' (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/gatetjdw/public_html/medicurepulse.com/email.php on line 10
+[16-Oct-2016 12:44:11 Etc/GMT] PHP Notice:  Undefined index: email in /home/gatetjdw/public_html/medicurepulse.com/email.php on line 5
+[16-Oct-2016 12:44:11 Etc/GMT] PHP Notice:  Undefined index: message in /home/gatetjdw/public_html/medicurepulse.com/email.php on line 6
+[16-Oct-2016 12:44:11 Etc/GMT] PHP Warning:  require(/PHPMailer-masterPHPMailerAutoload.php): failed to open stream: No such file or directory in /home/gatetjdw/public_html/medicurepulse.com/email.php on line 10
+[16-Oct-2016 12:44:11 Etc/GMT] PHP Warning:  require(/PHPMailer-masterPHPMailerAutoload.php): failed to open stream: No such file or directory in /home/gatetjdw/public_html/medicurepulse.com/email.php on line 10
+[16-Oct-2016 12:44:11 Etc/GMT] PHP Fatal error:  require(): Failed opening required '/PHPMailer-masterPHPMailerAutoload.php' (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/gatetjdw/public_html/medicurepulse.com/email.php on line 10
+[16-Oct-2016 12:45:01 Etc/GMT] PHP Warning:  require(PHPMailer-masterPHPMailerAutoload.php): failed to open stream: No such file or directory in /home/gatetjdw/public_html/medicurepulse.com/email.php on line 10
+[16-Oct-2016 12:45:01 Etc/GMT] PHP Warning:  require(PHPMailer-masterPHPMailerAutoload.php): failed to open stream: No such file or directory in /home/gatetjdw/public_html/medicurepulse.com/email.php on line 10
+[16-Oct-2016 12:45:01 Etc/GMT] PHP Fatal error:  require(): Failed opening required 'PHPMailer-masterPHPMailerAutoload.php' (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/gatetjdw/public_html/medicurepulse.com/email.php on line 10
+[16-Oct-2016 12:45:02 Etc/GMT] PHP Notice:  Undefined index: email in /home/gatetjdw/public_html/medicurepulse.com/email.php on line 5
+[16-Oct-2016 12:45:02 Etc/GMT] PHP Notice:  Undefined index: message in /home/gatetjdw/public_html/medicurepulse.com/email.php on line 6
+[16-Oct-2016 12:45:02 Etc/GMT] PHP Warning:  require(PHPMailer-masterPHPMailerAutoload.php): failed to open stream: No such file or directory in /home/gatetjdw/public_html/medicurepulse.com/email.php on line 10
+[16-Oct-2016 12:45:02 Etc/GMT] PHP Warning:  require(PHPMailer-masterPHPMailerAutoload.php): failed to open stream: No such file or directory in /home/gatetjdw/public_html/medicurepulse.com/email.php on line 10
+[16-Oct-2016 12:45:02 Etc/GMT] PHP Fatal error:  require(): Failed opening required 'PHPMailer-masterPHPMailerAutoload.php' (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/gatetjdw/public_html/medicurepulse.com/email.php on line 10
+[16-Oct-2016 12:45:03 Etc/GMT] PHP Notice:  Undefined index: email in /home/gatetjdw/public_html/medicurepulse.com/email.php on line 5
+[16-Oct-2016 12:45:03 Etc/GMT] PHP Notice:  Undefined index: message in /home/gatetjdw/public_html/medicurepulse.com/email.php on line 6
+[16-Oct-2016 12:45:03 Etc/GMT] PHP Warning:  require(PHPMailer-masterPHPMailerAutoload.php): failed to open stream: No such file or directory in /home/gatetjdw/public_html/medicurepulse.com/email.php on line 10
+[16-Oct-2016 12:45:03 Etc/GMT] PHP Warning:  require(PHPMailer-masterPHPMailerAutoload.php): failed to open stream: No such file or directory in /home/gatetjdw/public_html/medicurepulse.com/email.php on line 10
+[16-Oct-2016 12:45:03 Etc/GMT] PHP Fatal error:  require(): Failed opening required 'PHPMailer-masterPHPMailerAutoload.php' (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/gatetjdw/public_html/medicurepulse.com/email.php on line 10
+[16-Oct-2016 14:34:56 Etc/GMT] PHP Notice:  Undefined index: name in /home/gatetjdw/public_html/medicurepulse.com/email.php on line 4
+[16-Oct-2016 14:34:56 Etc/GMT] PHP Notice:  Undefined variable: Body in /home/gatetjdw/public_html/medicurepulse.com/email.php on line 4
+[16-Oct-2016 14:34:56 Etc/GMT] PHP Notice:  Undefined variable: email in /home/gatetjdw/public_html/medicurepulse.com/email.php on line 5
+[16-Oct-2016 14:34:56 Etc/GMT] PHP Notice:  Undefined variable: message in /home/gatetjdw/public_html/medicurepulse.com/email.php on line 6
+[16-Oct-2016 14:35:02 Etc/GMT] PHP Notice:  Undefined index: name in /home/gatetjdw/public_html/medicurepulse.com/email.php on line 4
+[16-Oct-2016 14:35:02 Etc/GMT] PHP Notice:  Undefined variable: Body in /home/gatetjdw/public_html/medicurepulse.com/email.php on line 4
+[16-Oct-2016 14:35:02 Etc/GMT] PHP Notice:  Undefined variable: email in /home/gatetjdw/public_html/medicurepulse.com/email.php on line 5
+[16-Oct-2016 14:35:02 Etc/GMT] PHP Notice:  Undefined variable: message in /home/gatetjdw/public_html/medicurepulse.com/email.php on line 6
+[16-Oct-2016 14:38:26 Etc/GMT] PHP Notice:  Undefined index: name in /home/gatetjdw/public_html/medicurepulse.com/email.php on line 4
+[16-Oct-2016 14:38:26 Etc/GMT] PHP Notice:  Undefined variable: Body in /home/gatetjdw/public_html/medicurepulse.com/email.php on line 4
+[16-Oct-2016 14:38:26 Etc/GMT] PHP Notice:  Undefined variable: email in /home/gatetjdw/public_html/medicurepulse.com/email.php on line 5
+[16-Oct-2016 14:38:26 Etc/GMT] PHP Notice:  Undefined variable: message in /home/gatetjdw/public_html/medicurepulse.com/email.php on line 6
+[16-Oct-2016 14:38:50 Etc/GMT] PHP Notice:  Undefined index: name in /home/gatetjdw/public_html/medicurepulse.com/email.php on line 4
+[16-Oct-2016 14:38:50 Etc/GMT] PHP Notice:  Undefined variable: Body in /home/gatetjdw/public_html/medicurepulse.com/email.php on line 4
+[16-Oct-2016 14:38:50 Etc/GMT] PHP Notice:  Undefined variable: email in /home/gatetjdw/public_html/medicurepulse.com/email.php on line 5
+[16-Oct-2016 14:38:50 Etc/GMT] PHP Notice:  Undefined variable: message in /home/gatetjdw/public_html/medicurepulse.com/email.php on line 6
+[16-Oct-2016 16:44:52 Etc/GMT] PHP Deprecated:  Function eregi() is deprecated in /home/gatetjdw/public_html/medicurepulse.com/include/fgcontactform.php on line 577
+[16-Oct-2016 16:44:52 Etc/GMT] PHP Notice:  Undefined index: scaptcha in /home/gatetjdw/public_html/medicurepulse.com/include/captcha-creator.php on line 34
+[16-Oct-2016 16:44:52 Etc/GMT] PHP Notice:  Undefined index: 64bc7ca1b5303d3d41b68fad6594f277 in /home/gatetjdw/public_html/medicurepulse.com/include/captcha-creator.php on line 120
+[16-Oct-2016 16:46:51 Etc/GMT] PHP Notice:  Undefined variable: captcha in /home/gatetjdw/public_html/medicurepulse.com/contact.php on line 15
+[16-Oct-2016 16:47:01 Etc/GMT] PHP Notice:  Undefined variable: captcha in /home/gatetjdw/public_html/medicurepulse.com/contact.php on line 15
+[16-Oct-2016 16:47:01 Etc/GMT] PHP Deprecated:  Function eregi() is deprecated in /home/gatetjdw/public_html/medicurepulse.com/include/fgcontactform.php on line 577
+[16-Oct-2016 16:47:08 Etc/GMT] PHP Notice:  Undefined variable: captcha in /home/gatetjdw/public_html/medicurepulse.com/contact.php on line 15
+[16-Oct-2016 16:47:08 Etc/GMT] PHP Deprecated:  Function eregi() is deprecated in /home/gatetjdw/public_html/medicurepulse.com/include/fgcontactform.php on line 577
+[16-Oct-2016 16:48:25 Etc/GMT] PHP Notice:  Undefined variable: captcha in /home/gatetjdw/public_html/medicurepulse.com/contact.php on line 15
+[16-Oct-2016 16:48:38 Etc/GMT] PHP Notice:  Undefined variable: captcha in /home/gatetjdw/public_html/medicurepulse.com/contact.php on line 15
+[16-Oct-2016 16:48:38 Etc/GMT] PHP Deprecated:  Function eregi() is deprecated in /home/gatetjdw/public_html/medicurepulse.com/include/fgcontactform.php on line 577
+[16-Oct-2016 17:07:43 Etc/GMT] PHP Notice:  Undefined variable: captcha in /home/gatetjdw/public_html/medicurepulse.com/contact.php on line 15
+[16-Oct-2016 17:08:39 Etc/GMT] PHP Notice:  Undefined variable: captcha in /home/gatetjdw/public_html/medicurepulse.com/contact.php on line 15
+[16-Oct-2016 17:08:39 Etc/GMT] PHP Deprecated:  Function eregi() is deprecated in /home/gatetjdw/public_html/medicurepulse.com/include/fgcontactform.php on line 577
+[16-Oct-2016 17:08:45 Etc/GMT] PHP Notice:  Undefined variable: captcha in /home/gatetjdw/public_html/medicurepulse.com/contact.php on line 15
+[16-Oct-2016 17:08:45 Etc/GMT] PHP Deprecated:  Function eregi() is deprecated in /home/gatetjdw/public_html/medicurepulse.com/include/fgcontactform.php on line 577
+[16-Oct-2016 17:10:36 Etc/GMT] PHP Notice:  Undefined variable: captcha in /home/gatetjdw/public_html/medicurepulse.com/contact.php on line 15
+[16-Oct-2016 17:11:00 Etc/GMT] PHP Notice:  Undefined variable: captcha in /home/gatetjdw/public_html/medicurepulse.com/contact.php on line 15
+[16-Oct-2016 17:11:00 Etc/GMT] PHP Deprecated:  Function eregi() is deprecated in /home/gatetjdw/public_html/medicurepulse.com/include/fgcontactform.php on line 577
+[16-Oct-2016 17:11:01 Etc/GMT] PHP Notice:  Undefined variable: captcha in /home/gatetjdw/public_html/medicurepulse.com/contact.php on line 15
+[16-Oct-2016 17:11:01 Etc/GMT] PHP Deprecated:  Function eregi() is deprecated in /home/gatetjdw/public_html/medicurepulse.com/include/fgcontactform.php on line 577
+[16-Oct-2016 17:11:19 Etc/GMT] PHP Notice:  Undefined variable: captcha in /home/gatetjdw/public_html/medicurepulse.com/contact.php on line 15
+[16-Oct-2016 17:11:19 Etc/GMT] PHP Deprecated:  Function eregi() is deprecated in /home/gatetjdw/public_html/medicurepulse.com/include/fgcontactform.php on line 577
+[16-Oct-2016 17:14:54 Etc/GMT] PHP Deprecated:  Function eregi() is deprecated in /home/gatetjdw/public_html/medicurepulse.com/include/fgcontactform.php on line 577
+[16-Oct-2016 17:16:16 Etc/GMT] PHP Deprecated:  Function eregi() is deprecated in /home/gatetjdw/public_html/medicurepulse.com/include/fgcontactform.php on line 577
+[16-Oct-2016 17:16:19 Etc/GMT] PHP Deprecated:  Function eregi() is deprecated in /home/gatetjdw/public_html/medicurepulse.com/include/fgcontactform.php on line 577
+[16-Oct-2016 17:16:23 Etc/GMT] PHP Deprecated:  Function eregi() is deprecated in /home/gatetjdw/public_html/medicurepulse.com/include/fgcontactform.php on line 577
+[16-Oct-2016 17:19:13 Etc/GMT] PHP Deprecated:  Function eregi() is deprecated in /home/gatetjdw/public_html/medicurepulse.com/include/fgcontactform.php on line 577
+[16-Oct-2016 17:57:05 Etc/GMT] PHP Deprecated:  Function eregi() is deprecated in /home/gatetjdw/public_html/medicurepulse.com/include/fgcontactform.php on line 577
+[16-Oct-2016 17:57:20 Etc/GMT] PHP Deprecated:  Function eregi() is deprecated in /home/gatetjdw/public_html/medicurepulse.com/include/fgcontactform.php on line 577
+[16-Oct-2016 18:34:55 Etc/GMT] PHP Deprecated:  Function eregi() is deprecated in /home/gatetjdw/public_html/medicurepulse.com/include/fgcontactform.php on line 577
+[16-Oct-2016 18:35:24 Etc/GMT] PHP Deprecated:  Function eregi() is deprecated in /home/gatetjdw/public_html/medicurepulse.com/include/fgcontactform.php on line 577
+[16-Oct-2016 18:43:09 Etc/GMT] PHP Deprecated:  Function eregi() is deprecated in /home/gatetjdw/public_html/medicurepulse.com/include/fgcontactform.php on line 577
+[16-Oct-2016 18:48:02 Etc/GMT] PHP Deprecated:  Function eregi() is deprecated in /home/gatetjdw/public_html/medicurepulse.com/include/fgcontactform.php on line 577
+[16-Oct-2016 18:50:05 Etc/GMT] PHP Deprecated:  Function eregi() is deprecated in /home/gatetjdw/public_html/medicurepulse.com/include/fgcontactform.php on line 577
+[16-Oct-2016 18:50:35 Etc/GMT] PHP Deprecated:  Function eregi() is deprecated in /home/gatetjdw/public_html/medicurepulse.com/include/fgcontactform.php on line 577
+[16-Oct-2016 18:54:04 Etc/GMT] PHP Deprecated:  Function eregi() is deprecated in /home/gatetjdw/public_html/medicurepulse.com/include/fgcontactform.php on line 577
+[16-Oct-2016 18:58:46 Etc/GMT] PHP Deprecated:  Function eregi() is deprecated in /home/gatetjdw/public_html/medicurepulse.com/include/fgcontactform.php on line 577
+[17-Oct-2016 05:58:34 Etc/GMT] PHP Deprecated:  Function eregi() is deprecated in /home/gatetjdw/public_html/medicurepulse.com/include/fgcontactform.php on line 577
+[17-Oct-2016 05:58:43 Etc/GMT] PHP Deprecated:  Function eregi() is deprecated in /home/gatetjdw/public_html/medicurepulse.com/include/fgcontactform.php on line 577
+[17-Oct-2016 05:59:04 Etc/GMT] PHP Deprecated:  Function eregi() is deprecated in /home/gatetjdw/public_html/medicurepulse.com/include/fgcontactform.php on line 577
+[17-Oct-2016 06:52:48 Etc/GMT] PHP Deprecated:  Function eregi() is deprecated in /home/gatetjdw/public_html/medicurepulse.com/include/fgcontactform.php on line 577
+[17-Oct-2016 07:01:18 Etc/GMT] PHP Deprecated:  Function eregi() is deprecated in /home/gatetjdw/public_html/medicurepulse.com/include/fgcontactform.php on line 577
+[17-Oct-2016 08:01:49 Etc/GMT] PHP Deprecated:  Function eregi() is deprecated in /home/gatetjdw/public_html/medicurepulse.com/include/fgcontactform.php on line 577
+[17-Oct-2016 08:39:12 Etc/GMT] PHP Deprecated:  Function eregi() is deprecated in /home/gatetjdw/public_html/medicurepulse.com/include/fgcontactform.php on line 577
+[17-Oct-2016 15:40:02 Etc/GMT] PHP Deprecated:  Function eregi() is deprecated in /home/gatetjdw/public_html/medicurepulse.com/include/fgcontactform.php on line 577
+[17-Oct-2016 16:16:26 Etc/GMT] PHP Deprecated:  Function eregi() is deprecated in /home/gatetjdw/public_html/medicurepulse.com/include/fgcontactform.php on line 577
+[17-Oct-2016 16:16:41 Etc/GMT] PHP Deprecated:  Function eregi() is deprecated in /home/gatetjdw/public_html/medicurepulse.com/include/fgcontactform.php on line 577
+[17-Oct-2016 16:16:59 Etc/GMT] PHP Deprecated:  Function eregi() is deprecated in /home/gatetjdw/public_html/medicurepulse.com/include/fgcontactform.php on line 577
+[17-Oct-2016 16:18:43 Etc/GMT] PHP Deprecated:  Function eregi() is deprecated in /home/gatetjdw/public_html/medicurepulse.com/include/fgcontactform.php on line 577
+[17-Oct-2016 16:19:11 Etc/GMT] PHP Deprecated:  Function eregi() is deprecated in /home/gatetjdw/public_html/medicurepulse.com/include/fgcontactform.php on line 577
+[17-Oct-2016 16:20:24 Etc/GMT] PHP Deprecated:  Function eregi() is deprecated in /home/gatetjdw/public_html/medicurepulse.com/include/fgcontactform.php on line 577
+[17-Oct-2016 16:20:37 Etc/GMT] PHP Deprecated:  Function eregi() is deprecated in /home/gatetjdw/public_html/medicurepulse.com/include/fgcontactform.php on line 577
+[17-Oct-2016 16:22:20 Etc/GMT] PHP Deprecated:  Function eregi() is deprecated in /home/gatetjdw/public_html/medicurepulse.com/include/fgcontactform.php on line 577
+[17-Oct-2016 16:23:11 Etc/GMT] PHP Deprecated:  Function eregi() is deprecated in /home/gatetjdw/public_html/medicurepulse.com/include/fgcontactform.php on line 577
+[17-Oct-2016 16:25:49 Etc/GMT] PHP Deprecated:  Function eregi() is deprecated in /home/gatetjdw/public_html/medicurepulse.com/include/fgcontactform.php on line 577
+[17-Oct-2016 16:26:22 Etc/GMT] PHP Deprecated:  Function eregi() is deprecated in /home/gatetjdw/public_html/medicurepulse.com/include/fgcontactform.php on line 577
+[17-Oct-2016 16:35:34 Etc/GMT] PHP Deprecated:  Function eregi() is deprecated in /home/gatetjdw/public_html/medicurepulse.com/include/fgcontactform.php on line 577
+[17-Oct-2016 16:41:11 Etc/GMT] PHP Deprecated:  Function eregi() is deprecated in /home/gatetjdw/public_html/medicurepulse.com/include/fgcontactform.php on line 577
+[17-Oct-2016 16:41:45 Etc/GMT] PHP Deprecated:  Function eregi() is deprecated in /home/gatetjdw/public_html/medicurepulse.com/include/fgcontactform.php on line 577
+[17-Oct-2016 16:42:28 Etc/GMT] PHP Deprecated:  Function eregi() is deprecated in /home/gatetjdw/public_html/medicurepulse.com/include/fgcontactform.php on line 577
+[17-Oct-2016 16:42:29 Etc/GMT] PHP Deprecated:  Function eregi() is deprecated in /home/gatetjdw/public_html/medicurepulse.com/include/fgcontactform.php on line 577
+[17-Oct-2016 16:46:24 Etc/GMT] PHP Deprecated:  Function eregi() is deprecated in /home/gatetjdw/public_html/medicurepulse.com/include/fgcontactform.php on line 577
+[17-Oct-2016 16:48:31 Etc/GMT] PHP Deprecated:  Function eregi() is deprecated in /home/gatetjdw/public_html/medicurepulse.com/include/fgcontactform.php on line 577
+[17-Oct-2016 16:49:01 Etc/GMT] PHP Deprecated:  Function eregi() is deprecated in /home/gatetjdw/public_html/medicurepulse.com/include/fgcontactform.php on line 577
+[17-Oct-2016 16:50:09 Etc/GMT] PHP Deprecated:  Function eregi() is deprecated in /home/gatetjdw/public_html/medicurepulse.com/include/fgcontactform.php on line 577
+[17-Oct-2016 16:53:28 Etc/GMT] PHP Deprecated:  Function eregi() is deprecated in /home/gatetjdw/public_html/medicurepulse.com/include/fgcontactform.php on line 577
+[17-Oct-2016 16:53:44 Etc/GMT] PHP Deprecated:  Function eregi() is deprecated in /home/gatetjdw/public_html/medicurepulse.com/include/fgcontactform.php on line 577
+[17-Oct-2016 16:53:44 Etc/GMT] PHP Deprecated:  Function split() is deprecated in /home/gatetjdw/public_html/medicurepulse.com/include/class.phpmailer.php on line 470
+[17-Oct-2016 17:07:33 Etc/GMT] PHP Deprecated:  Function eregi() is deprecated in /home/gatetjdw/public_html/medicurepulse.com/include/fgcontactform.php on line 577
+[18-Oct-2016 05:33:59 Etc/GMT] PHP Warning:  require_once(/include/fgcontactform.php): failed to open stream: No such file or directory in /home/gatetjdw/public_html/medicurepulse.com/contact.php on line 9
+[18-Oct-2016 05:33:59 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '/include/fgcontactform.php' (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/gatetjdw/public_html/medicurepulse.com/contact.php on line 9
+[18-Oct-2016 05:34:02 Etc/GMT] PHP Warning:  require_once(/include/fgcontactform.php): failed to open stream: No such file or directory in /home/gatetjdw/public_html/medicurepulse.com/contact.php on line 9
+[18-Oct-2016 05:34:02 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '/include/fgcontactform.php' (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/gatetjdw/public_html/medicurepulse.com/contact.php on line 9
+[18-Oct-2016 05:34:33 Etc/GMT] PHP Notice:  Undefined variable: captcha in /home/gatetjdw/public_html/medicurepulse.com/contact.php on line 15
+[18-Oct-2016 05:34:42 Etc/GMT] PHP Notice:  Undefined variable: captcha in /home/gatetjdw/public_html/medicurepulse.com/contact.php on line 15
+[18-Oct-2016 05:35:15 Etc/GMT] PHP Notice:  Undefined variable: captcha in /home/gatetjdw/public_html/medicurepulse.com/contact.php on line 15
+[18-Oct-2016 05:50:52 Etc/GMT] PHP Deprecated:  Function eregi() is deprecated in /home/gatetjdw/public_html/medicurepulse.com/include/fgcontactform.php on line 577
+[18-Oct-2016 06:42:49 Etc/GMT] PHP Deprecated:  Function eregi() is deprecated in /home/gatetjdw/public_html/medicurepulse.com/include/fgcontactform.php on line 577
+[18-Oct-2016 09:47:57 Etc/GMT] PHP Deprecated:  Function eregi() is deprecated in /home/gatetjdw/public_html/medicurepulse.com/include/fgcontactform.php on line 577
+[18-Oct-2016 09:48:00 Etc/GMT] PHP Deprecated:  Function eregi() is deprecated in /home/gatetjdw/public_html/medicurepulse.com/include/fgcontactform.php on line 577
+[18-Oct-2016 09:53:45 Etc/GMT] PHP Deprecated:  Function eregi() is deprecated in /home/gatetjdw/public_html/medicurepulse.com/include/fgcontactform.php on line 577
+[18-Oct-2016 09:54:10 Etc/GMT] PHP Deprecated:  Function eregi() is deprecated in /home/gatetjdw/public_html/medicurepulse.com/include/fgcontactform.php on line 577
+[18-Oct-2016 12:08:33 Etc/GMT] PHP Deprecated:  Function eregi() is deprecated in /home/gatetjdw/public_html/medicurepulse.com/include/fgcontactform.php on line 577
+[18-Oct-2016 14:18:37 Etc/GMT] PHP Deprecated:  Function eregi() is deprecated in /home/gatetjdw/public_html/medicurepulse.com/include/fgcontactform.php on line 577
+[18-Oct-2016 14:20:54 Etc/GMT] PHP Deprecated:  Function eregi() is deprecated in /home/gatetjdw/public_html/medicurepulse.com/include/fgcontactform.php on line 577
+[19-Oct-2016 02:02:18 Etc/GMT] PHP Deprecated:  Function eregi() is deprecated in /home/gatetjdw/public_html/medicurepulse.com/include/fgcontactform.php on line 577
+[19-Oct-2016 03:58:34 Etc/GMT] PHP Deprecated:  Function eregi() is deprecated in /home/gatetjdw/public_html/medicurepulse.com/include/fgcontactform.php on line 577
+[19-Oct-2016 04:04:50 Etc/GMT] PHP Deprecated:  Function eregi() is deprecated in /home/gatetjdw/public_html/medicurepulse.com/include/fgcontactform.php on line 577
+[19-Oct-2016 12:41:14 Etc/GMT] PHP Deprecated:  Function eregi() is deprecated in /home/gatetjdw/public_html/medicurepulse.com/include/fgcontactform.php on line 577
